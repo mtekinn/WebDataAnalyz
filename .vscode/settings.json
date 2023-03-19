@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./WebDataAnalyz/scrapy_app/scrapy_project"
+    ]
+}
