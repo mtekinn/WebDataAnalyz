@@ -16,7 +16,9 @@ WebDataAnalyz is a web application developed using Django and Scrapy, designed t
 1. Clone the repository: https://github.com/mtekinn/WebDataAnalyz.git
 cd WebDataAnalyz
 
-2. Create a virtual environment and activate it: python -m venv venv  source venv/bin/activate
+2. Create a virtual environment and activate it: 
+python -m venv venv
+source venv/bin/activate
 
 3. Install the required packages: pip install -r requirements.txt
 
