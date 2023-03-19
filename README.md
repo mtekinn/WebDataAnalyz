@@ -1,6 +1,6 @@
 # WebDataAnalyz
 
-WebDataAnalyz is a web application developed using Django and Scrapy, designed to crawl and analyze websites based on user input. It showcases the ability to build a scalable and maintainable web service, fulfilling the requirements of a recent job posting.
+WebDataAnalyz is a web application developed using Django and Scrapy, designed to crawl and analyze websites based on user input. 
 
 ## Features
 
